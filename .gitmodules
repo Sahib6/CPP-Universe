@@ -1,0 +1,3 @@
+[submodule "terminal_chess"]
+	path = terminal_chess
+	url = https://github.com/Sahib6/CPP-Universe.git
